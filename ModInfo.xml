@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<ModInfo>
+		<Name value="wtk34_water_filter"/>
+		<Description value="A simple water filter for the game."/>
+		<Author value="wtk34"/>
+		<Version value="1.0"/>
+	</ModInfo>
+</xml>

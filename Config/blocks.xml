@@ -1,0 +1,11 @@
+<wtk34_water_filter>
+
+<append xpath="/blocks">
+	<block name="waterFilter">
+		<property name="DescriptionKey" value="waterFilterDesc"/>
+		<property name="Extends" value="wineBarrel"/>
+		<property name="CustomIcon" value="wineBarrel"/>
+	</block>
+</append>
+
+</wtk34_water_filter>

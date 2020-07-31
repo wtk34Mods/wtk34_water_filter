@@ -1,0 +1,7 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english
+{my_key},{xml_file},{type_of_object},{true/false/null},{true/false/null},"{Localized_Name_Eng}"
+
+waterFilter,blocks,block,,,"Water filter"
+waterFilterDesc,blocks,block,,,"The water filter will give you clean water. Left click with empty jar to get clean water, right click with dirty water to get clean water."
+resourceActivatedCharcoal,items,item,,,"Activated Charcoal"
+resourceActivatedCharcoalDesc,items,item,,,"This resource is made from wood and is an ingrediant used in waterfilter's."

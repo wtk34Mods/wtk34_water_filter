@@ -1,0 +1,11 @@
+<wtk34_water_filter>
+
+<append xpath="//lootgroup[@name='junk']">
+	<item name="resourceActivatedCharcoal"/>
+</append>
+
+<append xpath="//lootcontainer[@id='8']">
+	<item name="resourceActivatedCharcoal"/>
+</append>
+
+</wtk34_water_filter>

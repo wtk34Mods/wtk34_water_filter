@@ -1,0 +1,24 @@
+<wtk34_water_filter>
+<append xpath="/recipes">
+<!-- This recipe is for the activated Charcoal for use in the water filter -->
+	<recipe name="resourceActivatedCharcoal" count="10" craft_area="campfire" craft_time="100">
+		<ingredient name="resourceWood" count="1"/>
+		<ingredient name="drinkJarRiverWater" count="1"/>
+	</recipe>
+	
+<!-- this is the water filter recipe -->	
+	<recipe name="waterFilter" count="1" craft_time="45">
+		<ingredient name="resourceWood" count="30"/>
+		<ingredient name="resourceActivatedCharcoal" count="3"/>
+	</recipe>
+
+
+
+
+
+
+
+
+
+</append>
+</wtk34_water_filter>
