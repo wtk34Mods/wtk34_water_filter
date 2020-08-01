@@ -5,6 +5,7 @@
 		<property name="DescriptionKey" value="waterFilterDesc"/>
 		<property name="Extends" value="wineBarrel"/>
 		<property name="CustomIcon" value="wineBarrel"/>
+		<property name="UnlockedBy" value="waterFilterSchematic"/>
 	</block>
 </append>
 

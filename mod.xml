@@ -1,10 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <mod>
-	<info>
-		<author>wtk34</author>
-		<name>wtk34_water_filter</name>
-		<description>A simple water filter for the game.</description>
-		<mod_version>1.0</mod_version>
-		<game_version>18.4</game_version>
-		<launcher_version>0.7.3</launcher_version>
-	</info>
+  <info>
+    <author>wtk34</author>
+    <name>wtk34_water_filter</name>
+    <description>A simple water filter for the game.</description>
+    <mod_version>1.2</mod_version>
+    <game_version>18.4</game_version>
+    <launcher_version>0.7.3</launcher_version>
+  </info>
 </mod>

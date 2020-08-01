@@ -2,6 +2,7 @@
 
 <append xpath="//lootgroup[@name='junk']">
 	<item name="resourceActivatedCharcoal"/>
+	<item name="waterFilterSchematic"/>
 </append>
 
 <append xpath="//lootcontainer[@id='8']">
