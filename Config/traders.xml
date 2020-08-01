@@ -8,4 +8,24 @@
 <append xpath="//trader_info[@id='1']/trader_items">
 	<item group="wtk34_water_filter" count="1,2"/>
 </append>
+
+<append xpath="//trader_info[@id='3']/trader_items">
+	<item group="wtk34_water_filter" count="1,2"/>
+</append>
+
+<append xpath="//trader_info[@id='7']/trader_items">
+	<item group="wtk34_water_filter" count="1,2"/>
+</append>
+
+<append xpath="//trader_info[@id='2']/trader_items">
+	<item group="wtk34_water_filter" count="1,2"/>
+</append>
+
+<append xpath="//trader_info[@id='8']/trader_items">
+	<item group="wtk34_water_filter" count="1,2"/>
+</append>
+
+<append xpath="//trader_info[@id='6']/trader_items">
+	<item group="wtk34_water_filter" count="1,2"/>
+</append>
 </wtk34_water_filter>
