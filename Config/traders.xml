@@ -10,10 +10,6 @@
 	<item group="wtk34_water_filter" count="1,2"/>
 </append>
 
-<append xpath="//trader_info[@id='3']/trader_items">
-	<item group="wtk34_water_filter" count="1,2"/>
-</append>
-
 <append xpath="//trader_info[@id='7']/trader_items">
 	<item group="wtk34_water_filter" count="1,2"/>
 </append>
